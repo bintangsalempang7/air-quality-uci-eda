@@ -46,10 +46,3 @@ Proyek ini dikembangkan menggunakan **Python 3** (dijalankan di Google Colab) de
 * **Statistika & Machine Learning:** `scipy`, `scikit-learn` (`StandardScaler`, `PCA`, `KMeans`, `silhouette_score`)
 
 ---
-
-## 🚀 Cara Menjalankan Proyek
-
-1. **Clone repositori ini:**
-   ```bash
-   git clone [https://github.com/username-anda/nama-repo-anda.git](https://github.com/username-anda/nama-repo-anda.git)
-   cd nama-repo-anda
